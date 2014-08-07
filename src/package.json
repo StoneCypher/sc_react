@@ -1,0 +1,31 @@
+{
+  "author": "John Haugeland",
+  "name": "sc_react",
+  "description": "StoneCypher's React control library",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/StoneCypher/sc_react"
+  },
+  "main": "./lib/sc_react",
+  "keywords": [
+    "react",
+    "react.js",
+    "control",
+    "component",
+    "widget",
+    "tag"
+  ],
+  "bin": {
+    "sc_react": "./bin/sc_react"
+  },
+  "dependencies": {
+    "vows": "*",
+    "node-jscoverage": "*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "whargarbl todo"
+  }
+}
