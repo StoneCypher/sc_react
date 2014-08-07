@@ -19,8 +19,7 @@
     "sc_react": "./bin/sc_react"
   },
   "dependencies": {
-    "vows": "*",
-    "node-jscoverage": "*"
+    "vows": "*"
   },
   "engines": {
     "node": "*"
