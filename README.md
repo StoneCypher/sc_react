@@ -1,7 +1,11 @@
 sc_react
 ========
 
-This is my React control library, this is my gun.  This is for fighting; this is for fun.  MIT license.
+This is my React control library, this is my gun.  This is for fighting; this is for fun.
+
+Re-usable React 0.14 controls, run through Babel; packager agnostic.  Docs coming Real Soon Now &trade;.
+
+MIT licensed.
 
 ![Language](http://img.shields.io/badge/Language-JavaScript-000000.svg) &nbsp;
 ![Platform](http://img.shields.io/badge/Platform-NodeJS_and_Browser-000000.svg) &nbsp;
